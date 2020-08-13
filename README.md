@@ -2,8 +2,8 @@
 
 #
 
-#![](images/app_1.png)
+#![](app_1.png)
 
-#![](images/app_2.png)
+#![](app_2.png)
 
-#![](images/app_3.png)
+#![](app_3.png)
